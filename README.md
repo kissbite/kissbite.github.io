@@ -24,7 +24,11 @@
 
 #### 博客园
 
-​		[https://www.cnblogs.com/woaixing711/]()
+​			[https://www.cnblogs.com/woaixing711/]()
+
+#### 个人荣誉
+
+​	获得一份软件著作权：超级自习室APP v1.0
 
 
 

@@ -30,7 +30,6 @@
 
 ​	获得一份软件著作权：超级自习室APP v1.0
 
-![image](https://github.com/kissbite/kissbite.github.io/blob/main/%E7%99%BB%E8%AE%B0%E8%AF%81%E4%B9%A6(2023R11L0792467)%20(2).jfif){width=100px height=50px}
-
+![image](https://github.com/kissbite/kissbite.github.io/blob/main/%E7%99%BB%E8%AE%B0%E8%AF%81%E4%B9%A6(2023R11L0792467)%20(2).jfif){width=400px height=300px}
 
 

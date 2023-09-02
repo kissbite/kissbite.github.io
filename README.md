@@ -28,10 +28,9 @@
 
 #### 个人荣誉
 
-​	获得一份软件著作权：超级自习室APP v1.0
-<a href="https://github.com/Jackson0714" target="_blank">
-　　<img style="position: fixed; top: 0; right: 0; border: 0; z-index: 1;" src="http://images.cnblogs.com/cnblogs_com/jackson0714/779808/o_github.png" >
+<a href="https://github.com/kissbite/kissbite.github.io/blob/main/%E7%99%BB%E8%AE%B0%E8%AF%81%E4%B9%A6(2023R11L0792467)%20(2).jfif" target="_blank">
+　　<img style="position: fixed; top: 0; right: 0; border: 0; z-index: 1;" src="http://images.cnblogs.com/cnblogs_com/jackson0714/779808/o_github.png" >​获得一份软件著作权：超级自习室APP v1.0
 </a>
-![image](https://github.com/kissbite/kissbite.github.io/blob/main/%E7%99%BB%E8%AE%B0%E8%AF%81%E4%B9%A6(2023R11L0792467)%20(2).jfif){width=400px height=300px}
+
 
 
